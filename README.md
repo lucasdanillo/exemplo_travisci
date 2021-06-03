@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/lucasdanillo/exemplo_travisci.svg?branch=master)](https://travis-ci.com/lucasdanillo/exemplo_travisci)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
